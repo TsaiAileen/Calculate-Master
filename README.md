@@ -1,8 +1,14 @@
+<img src="docs/UTS-Logo.png" alt="University of Technology Sydney" width="200" style="width: 30%; float: left; padding: 0 1em 1em 0;"/><p>Faculty of Engineering and Information Technology<br/>School of Software</p>
+
+<p style="clear:left">41889 - Application Development in the iOS Environment<br/>42889 - iOS Application Development<br/>Autumn 2019</p>
+
+![build status](https://travis-ci.org/uts-ios-dev/calc.svg?branch=master)
+
 # Assessment Task 1
 
 Individual programming project: Command-line calculator
 
-Due 24th March 2023 at 11:59 pm  
+Due 5rd April 2019 at 11:59 pm  
 
 This project is worth 25% of the overall mark for this subject.
 
@@ -200,4 +206,3 @@ If the answer to your questions can be found directly in any of the following:
 - UTS Online discussion board
 
 You will be directed to these locations rather than given a direct answer.
-
